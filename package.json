@@ -1,0 +1,14 @@
+{
+  "name": "warner",
+  "version": "0.0.1",
+  "description": "Node LED light controller for notifications",
+  "main": "warner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-hid": "^0"
+  },
+  "author": "Raymond Dowe",
+  "license": "GNU GPLv3"
+}
